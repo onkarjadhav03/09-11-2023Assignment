@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Assignment5_P4\Assignment5_P4\bin\Debug\Assignment5_P4.exe.config
+D:\mphasis\dotnet\Assignment5_P4\Assignment5_P4\bin\Debug\Assignment5_P4.exe
+D:\mphasis\dotnet\Assignment5_P4\Assignment5_P4\bin\Debug\Assignment5_P4.pdb
+D:\mphasis\dotnet\Assignment5_P4\Assignment5_P4\obj\Debug\Assignment5_P4.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Assignment5_P4\Assignment5_P4\obj\Debug\Assignment5_P4.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Assignment5_P4\Assignment5_P4\obj\Debug\Assignment5_P4.exe
+D:\mphasis\dotnet\Assignment5_P4\Assignment5_P4\obj\Debug\Assignment5_P4.pdb
